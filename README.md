@@ -34,8 +34,7 @@ Le projet met particulièrement l'accent sur la **sécurité applicative**, la g
 
 **Frontend**
 
-* Vue.js
-* JavaScript
+* Next.js
 
 **Infrastructure**
 
